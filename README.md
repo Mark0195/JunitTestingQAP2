@@ -2,4 +2,4 @@
 Design/Architecture Qap 2
 
 
-Unit testing for a blood donation program
+Unit testing with mocks for a blood donation program
